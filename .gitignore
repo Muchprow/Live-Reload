@@ -1,0 +1,8 @@
+build/
+.cache/
+.vscode/
+compile_commands.json
+*.dll
+*.exe
+*.a
+*.o
