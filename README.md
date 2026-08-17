@@ -13,6 +13,15 @@ A lightweight, zero-dependency C++17 library for Windows dynamic link library (D
 - 📦 **Zero Dependencies**: Pure C++17 and Win32 API (`ReadDirectoryChangesW`, `LoadLibraryA`).
 - 🛠️ **CMake Ready**: Easy integration as a static library or submodule.
 
+---
+
+## Support & Donations ☕
+
+If this library saved you time, feel free to support the project!
+
+- **EVM (ETH / BNB / Polygon / USDT / USDC)**:  
+  `0x4B4d23cdeD10F5585B219066127422c62D8D09C6`
+
 ## Quick Start
 
 ```cpp
